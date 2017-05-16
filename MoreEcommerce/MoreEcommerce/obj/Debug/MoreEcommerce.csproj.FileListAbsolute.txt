@@ -1,0 +1,24 @@
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll.config
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.pdb
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.csprojResolveAssemblyReference.cache
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.dll
+C:\Users\mclarkson\Desktop\INFO1156 - C++\Exercises\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.pdb
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll.config
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.pdb
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.csprojResolveAssemblyReference.cache
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.dll
+C:\Users\mclarkson\Desktop\ASP.Net W2015\Winter 2015\Examples\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.pdb
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll.config
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.pdb
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.dll
+C:\Users\Rui\Desktop\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.pdb
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll.config
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.dll
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\bin\MoreEcommerce.pdb
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.csprojResolveAssemblyReference.cache
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.dll
+D:\Asp.Net programming\MoreEcommerceCompleted\MoreEcommerce\MoreEcommerce\obj\Debug\MoreEcommerce.pdb
